@@ -43,4 +43,4 @@ ctrlpvim-ctrlp.vim-1.81-50-g475a864.zip
 配置完成后需要修改
 ~/.bashrc的末尾添加如下内容，然后source ~/.bashrc
 CSCOPE_DB=/
-TAG_DB=/
+TAG_DB=/     
