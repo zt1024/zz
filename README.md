@@ -44,4 +44,3 @@ ctrlpvim-ctrlp.vim-1.81-50-g475a864.zip
 ~/.bashrc的末尾添加如下内容，然后source ~/.bashrc
 CSCOPE_DB=/
 TAG_DB=/
-![image](https://github.com/user-attachments/assets/cec1fa11-e400-4d01-b1e8-2ea7f7ab6ec8)
