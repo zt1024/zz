@@ -13,11 +13,11 @@ Make 编译会失败
 进入src输入再编译：
  -Wl,--copy-dt-needed-entries  -lncurses -lfl
 
-cscope -Rbq
+cscope -Rbq 
 ctags -R .
 
 支持c++：
-　ctags -R --c++-kinds=+p --fields=+iaS --extra=+q
+ctags -R --c++-kinds=+p --fields=+iaS --extra=+q
 
 Taglist
 https://www.vim.org/scripts/script.php?script_id=273
