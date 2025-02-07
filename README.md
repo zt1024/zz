@@ -16,6 +16,9 @@ Make 编译会失败
 cscope -Rbq
 ctags -R .
 
+支持c++：
+　ctags -R --c++-kinds=+p --fields=+iaS --extra=+q
+
 Taglist
 https://www.vim.org/scripts/script.php?script_id=273
 taglist_46.zip
